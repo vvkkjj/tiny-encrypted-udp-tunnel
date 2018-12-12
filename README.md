@@ -1,3 +1,5 @@
+apt-get install build-essential libssl-dev
+
 # tiny-encrypted-udp-tunnel
 tiny singlefile encrypted udp tunnel/forwarder
 
